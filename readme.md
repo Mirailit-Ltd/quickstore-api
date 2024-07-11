@@ -1,4 +1,4 @@
-=== Quick Store API ===
+## Quick Store API
 Contributors: mirailit
 Donate link: https://mirailit.com/
 Tags: ecommerce, API, mobile-app, store, integration
@@ -11,17 +11,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Custom API endpoints for your e-commerce mobile app with Quick Store.
 
-== Description ==
+## Description
 
 The Quick Store API plugin is designed to provide custom API endpoints for the Quick Store app, making it easier to build and integrate your e-commerce mobile app with your WordPress-based online store. This plugin facilitates seamless communication between your store and mobile app, ensuring efficient data exchange and improved user experience.
 
-== Features ==
+## Features
 
 Custom API Endpoints: Extend the functionality of your e-commerce store with tailor-made API endpoints.
 Seamless Integration: Easily integrate your mobile app with your WordPress store using the provided endpoints.
 Efficient Data Exchange: Ensure fast and reliable data exchange between your store and mobile app.
 
-== Installation ==
+## Installation
 
 Upload to WordPress:
 
@@ -32,7 +32,7 @@ Activate the Plugin:
 
 Activate the plugin through the 'Plugins' menu in WordPress.
 
-== Configuration ==
+## Configuration
 
 Setup:
 Once the plugin is activated, you need to configure it to suit your requirements:
@@ -43,14 +43,15 @@ Learn how to get the purchase code from the link below:
 3. Save your settings.
 
 
-== Usage ==
+## Usage
 
 Accessing API Endpoints:
 Your custom API endpoints will be available for use by your mobile app to fetch and send data to your WordPress store.
 Refer to the Quick Store app documentation for detailed instructions on how to use these endpoints.
-== Frequently Asked Questions ==
 
-= What is Quick Store API? =
+## Frequently Asked Questions
+
+= What is Quick Store API?
 
 Quick Store API is a plugin designed to provide custom API endpoints for the Quick Store app, facilitating seamless integration between your WordPress store and mobile app.
 
@@ -66,7 +67,7 @@ Yes, Quick Store API is designed to be user-friendly. Once activated, it automat
 
 No, you do not need any technical skills to use Quick Store API. The plugin works seamlessly in the background to provide the necessary endpoints for your Quick Store app.
 
-== Changelog ==
+## Changelog
 
 = v1.0.0 =
 
